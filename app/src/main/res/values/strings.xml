@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PreventAutoClickDemo</string>
+    <string name="normal_text">Aqui está o layout do app funcinando normalmente</string>
+    <string name="auto_click_message">Você tem um ou mais apps de auto-click, por favor desistale para continuar usando esse app normalmente.</string>
+</resources>
